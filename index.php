@@ -17,7 +17,7 @@ include("marco-right.php");
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
                 Posteado por:  Ivan Quiñonez<br>
-                Fecha: 2021-08-17 <br>
+                Fecha: 2023-04-30 <br>
           </div>
         </div>
     </div>
