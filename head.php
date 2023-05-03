@@ -10,8 +10,8 @@
 <head>
  <title> Educaysoft </title>
 <meta charset="utf-8"/>
-	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-	<meta name="description" content="Biografía de Stalin Franciso" />
+	<link href="images/ivan.jpeg" rel="shortcut icon" type="image/x-icon" />
+	<meta name="Description" content="Biografía de Ivan Quiñonez" />
 
 	<meta property="og:image" content="https://highkickesmeraldas.com/FrancisStalin/images/fotoperfil.png" />
 	<meta property="og:image:width" content="100" />
