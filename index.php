@@ -86,7 +86,7 @@ document.getElementById("elnombre").innerHTML="Ivan Quiñonez";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://congresoutlvte.org/QuinonezBryan/'>Bryan Quiñonez Morales</a></p><p><a href='https://congresoutlvte.org/VasquezElinton/'>Elinton Vasquez</a></p><p><a href='https://congresoutlvte.org/AlvarezJennifer/'>Jennifer Alvarez</a></p><p><a href='https://congresoutlvte.org/TapiaBarbara/'>Barbara Tapia</a></p>";
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://congresoutlvte.org/QuinonezBryan/'>Bryan Quiñonez Morales</a></p><p><a href='https://congresoutlvte.org/VasquezElinton/'>Elinton Vasquez</a></p><p><a href='https://congresoutlvte.org/OrtegaJennifer/'>Jennifer Alvarez</a></p><p><a href='https://congresoutlvte.org/TapiaBarbara/'>Barbara Tapia</a></p>";
  </script>
  
 <?php
